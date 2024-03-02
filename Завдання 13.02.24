@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Завдання 13.02.24</title>
+<head>
+<body>
+    <header>
+
+    </header>
+        <h1>Моє хоббі 13.02.24</h1>
+        <a href="index.html"> <h2>Перша сторінка</h2></a>
+    <section>
+        <h3> Моє хоббі це танці. Я ними займалася 6 років, це були різні види. Зараз я ними не займаюся, але маю до них хист. <br></br>
+             Та́нець, танок — вид мистецтва, де художні образи створюються засобами пластичних рухів людського тіла. В танці відображається емоційно-образний зміст музичних творів.
+        </h3>
+
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fchl.kiev.ua%2FDefault.
+        aspx%3Fid%3D10649&psig=AOvVaw0_YNAva2CRsHjY6mIclp06&ust=1709455963372000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPiE8_GZ1YQDFQAAAAAdAAAAABAD"
+        width="400" border="8">
+   </section>
+   <footer>
+       <h5> RudEwa </h5>
+   </footer>
+</body>
+</html>
