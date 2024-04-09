@@ -4,7 +4,7 @@ h2
        font-family: Verdana, Arial, Helvetisa, sans-serif;
        color: #F08080;
        text-align: center; 
-       background-color: skyblue; 
+       background-color: pink; 
    }
 h3
    {
@@ -12,11 +12,11 @@ h3
        font-family: sans-serif, Helvetisa, Arial, Verdana;
        color: #FFA07A;
        text-aling: Left;
-       background-cplor: royablue;
+       background-cplor: red;
    }
 p
    {
        font-size: 20
        font-family: Helvetica, Arial, Verdana, sans-serif;
-       color: #9ACD32;
+       color: #FFC0CB;
    }
