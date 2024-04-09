@@ -1,0 +1,22 @@
+h2
+   { 
+       font-size: 20px
+       font-family: Verdana, Arial, Helvetisa, sans-serif;
+       color: #F08080;
+       text-align: center; 
+       background-color: skyblue; 
+   }
+h3
+   {
+       font-size:  15px
+       font-family:  sans-serif, Helvetisa, Arial, Verdana;
+       color:  #FFA07A;
+       text-aling: Left;
+       background-cplor:  royablue;
+   }
+p
+   {
+       font-size:  20
+       font-family:  Helvetica, Arial, Verdana, sans-serif;
+       color:  #FFC0CB;
+   }
